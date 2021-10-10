@@ -1,0 +1,16 @@
+C:\Users\tashm\OneDrive\Desktop\C#\Lesson 1 Activity 1\bin\Debug\net5.0\Lesson 1 Activity 1.exe
+C:\Users\tashm\OneDrive\Desktop\C#\Lesson 1 Activity 1\bin\Debug\net5.0\Lesson 1 Activity 1.deps.json
+C:\Users\tashm\OneDrive\Desktop\C#\Lesson 1 Activity 1\bin\Debug\net5.0\Lesson 1 Activity 1.runtimeconfig.json
+C:\Users\tashm\OneDrive\Desktop\C#\Lesson 1 Activity 1\bin\Debug\net5.0\Lesson 1 Activity 1.runtimeconfig.dev.json
+C:\Users\tashm\OneDrive\Desktop\C#\Lesson 1 Activity 1\bin\Debug\net5.0\Lesson 1 Activity 1.dll
+C:\Users\tashm\OneDrive\Desktop\C#\Lesson 1 Activity 1\bin\Debug\net5.0\ref\Lesson 1 Activity 1.dll
+C:\Users\tashm\OneDrive\Desktop\C#\Lesson 1 Activity 1\bin\Debug\net5.0\Lesson 1 Activity 1.pdb
+C:\Users\tashm\OneDrive\Desktop\C#\Lesson 1 Activity 1\obj\Debug\net5.0\Lesson 1 Activity 1.csproj.AssemblyReference.cache
+C:\Users\tashm\OneDrive\Desktop\C#\Lesson 1 Activity 1\obj\Debug\net5.0\Lesson 1 Activity 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tashm\OneDrive\Desktop\C#\Lesson 1 Activity 1\obj\Debug\net5.0\Lesson 1 Activity 1.AssemblyInfoInputs.cache
+C:\Users\tashm\OneDrive\Desktop\C#\Lesson 1 Activity 1\obj\Debug\net5.0\Lesson 1 Activity 1.AssemblyInfo.cs
+C:\Users\tashm\OneDrive\Desktop\C#\Lesson 1 Activity 1\obj\Debug\net5.0\Lesson 1 Activity 1.csproj.CoreCompileInputs.cache
+C:\Users\tashm\OneDrive\Desktop\C#\Lesson 1 Activity 1\obj\Debug\net5.0\Lesson 1 Activity 1.dll
+C:\Users\tashm\OneDrive\Desktop\C#\Lesson 1 Activity 1\obj\Debug\net5.0\ref\Lesson 1 Activity 1.dll
+C:\Users\tashm\OneDrive\Desktop\C#\Lesson 1 Activity 1\obj\Debug\net5.0\Lesson 1 Activity 1.pdb
+C:\Users\tashm\OneDrive\Desktop\C#\Lesson 1 Activity 1\obj\Debug\net5.0\Lesson 1 Activity 1.genruntimeconfig.cache
