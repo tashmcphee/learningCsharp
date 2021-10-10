@@ -1,0 +1,16 @@
+C:\Users\tashm\OneDrive\Desktop\C#\Lesson 2 Activity 2 Sept course\bin\Debug\net5.0\Lesson 2 Activity 2 Sept course.exe
+C:\Users\tashm\OneDrive\Desktop\C#\Lesson 2 Activity 2 Sept course\bin\Debug\net5.0\Lesson 2 Activity 2 Sept course.deps.json
+C:\Users\tashm\OneDrive\Desktop\C#\Lesson 2 Activity 2 Sept course\bin\Debug\net5.0\Lesson 2 Activity 2 Sept course.runtimeconfig.json
+C:\Users\tashm\OneDrive\Desktop\C#\Lesson 2 Activity 2 Sept course\bin\Debug\net5.0\Lesson 2 Activity 2 Sept course.runtimeconfig.dev.json
+C:\Users\tashm\OneDrive\Desktop\C#\Lesson 2 Activity 2 Sept course\bin\Debug\net5.0\Lesson 2 Activity 2 Sept course.dll
+C:\Users\tashm\OneDrive\Desktop\C#\Lesson 2 Activity 2 Sept course\bin\Debug\net5.0\ref\Lesson 2 Activity 2 Sept course.dll
+C:\Users\tashm\OneDrive\Desktop\C#\Lesson 2 Activity 2 Sept course\bin\Debug\net5.0\Lesson 2 Activity 2 Sept course.pdb
+C:\Users\tashm\OneDrive\Desktop\C#\Lesson 2 Activity 2 Sept course\obj\Debug\net5.0\Lesson 2 Activity 2 Sept course.csproj.AssemblyReference.cache
+C:\Users\tashm\OneDrive\Desktop\C#\Lesson 2 Activity 2 Sept course\obj\Debug\net5.0\Lesson 2 Activity 2 Sept course.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tashm\OneDrive\Desktop\C#\Lesson 2 Activity 2 Sept course\obj\Debug\net5.0\Lesson 2 Activity 2 Sept course.AssemblyInfoInputs.cache
+C:\Users\tashm\OneDrive\Desktop\C#\Lesson 2 Activity 2 Sept course\obj\Debug\net5.0\Lesson 2 Activity 2 Sept course.AssemblyInfo.cs
+C:\Users\tashm\OneDrive\Desktop\C#\Lesson 2 Activity 2 Sept course\obj\Debug\net5.0\Lesson 2 Activity 2 Sept course.csproj.CoreCompileInputs.cache
+C:\Users\tashm\OneDrive\Desktop\C#\Lesson 2 Activity 2 Sept course\obj\Debug\net5.0\Lesson 2 Activity 2 Sept course.dll
+C:\Users\tashm\OneDrive\Desktop\C#\Lesson 2 Activity 2 Sept course\obj\Debug\net5.0\ref\Lesson 2 Activity 2 Sept course.dll
+C:\Users\tashm\OneDrive\Desktop\C#\Lesson 2 Activity 2 Sept course\obj\Debug\net5.0\Lesson 2 Activity 2 Sept course.pdb
+C:\Users\tashm\OneDrive\Desktop\C#\Lesson 2 Activity 2 Sept course\obj\Debug\net5.0\Lesson 2 Activity 2 Sept course.genruntimeconfig.cache
